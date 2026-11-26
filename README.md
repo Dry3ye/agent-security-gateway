@@ -33,12 +33,12 @@ These are initial design proposals, not installed dependencies or compatibility 
 
 ## Documentation
 
-- [Design brief](docs/DESIGN_BRIEF.md): product scope, architecture, domain model, invariants, evaluation, delivery phases and open decisions.
+- [Design brief](DESIGN_BRIEF.md): product scope, architecture, domain model, invariants, evaluation, delivery phases and open decisions.
 
 ## Repository contents
 
 - `README.md`: project overview and entry point.
-- `docs/DESIGN_BRIEF.md`: expandable engineering and product brief.
+- `DESIGN_BRIEF.md`: expandable engineering and product brief.
 - `.gitignore`: excludes credentials, build output and local runtime files.
 
 Future application directories are proposed in the design brief; they do not exist yet. There is no runnable setup command at this stage.
